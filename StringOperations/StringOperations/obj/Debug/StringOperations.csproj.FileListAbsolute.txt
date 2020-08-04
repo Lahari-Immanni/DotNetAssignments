@@ -1,0 +1,7 @@
+D:\dotnet\DotNetConsoleApps\StringOperations\StringOperations\obj\Debug\StringOperations.csprojAssemblyReference.cache
+D:\dotnet\DotNetConsoleApps\StringOperations\StringOperations\obj\Debug\StringOperations.csproj.CoreCompileInputs.cache
+D:\dotnet\DotNetConsoleApps\StringOperations\StringOperations\bin\Debug\StringOperations.exe.config
+D:\dotnet\DotNetConsoleApps\StringOperations\StringOperations\bin\Debug\StringOperations.exe
+D:\dotnet\DotNetConsoleApps\StringOperations\StringOperations\bin\Debug\StringOperations.pdb
+D:\dotnet\DotNetConsoleApps\StringOperations\StringOperations\obj\Debug\StringOperations.exe
+D:\dotnet\DotNetConsoleApps\StringOperations\StringOperations\obj\Debug\StringOperations.pdb
